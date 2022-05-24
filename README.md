@@ -55,7 +55,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
         git clone https://github.com/jaquelinepires/Widget-web.git
         ```
     * Verá que há duas pastas, uma referente à aplicação web, e uma referente à api back-end.
-    * Faça uma cópia dos arquivos .env.local (pasta web) e .env (pasta server) e renomeie ambos removendo o nome "-sample". É necessário que sejam preenchidos os dados dentro destes arquivos.
+    * `Configure seu .env (pasta web) e (pasta server)`
+   
+       VITE_API_URL=
+       
+       DATABASE_URL=
+       
 
   * 🖥️ **Aplicação web**  
     * Execute ```yarn run dev``` tanto no diretório da api back-end quanto no projeto front-end para iniciar a aplicação.
