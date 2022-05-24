@@ -19,7 +19,7 @@ O projeto está separado em desenvolvimento Front-end utilizando React, desenvol
 <br>
 
 <p align="center">
-  <img alt="Imagem da aplicação web" src=src/components/assets/image.png width="100%">
+  <img alt="Imagem da aplicação web" src=web/src/components/assets/image.png width="100%">
 </p>
 
 ## ✨ Tecnologias
