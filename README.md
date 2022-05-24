@@ -19,7 +19,7 @@ O projeto está separado em desenvolvimento Front-end utilizando React, desenvol
 <br>
 
 <p align="center">
-  <img alt="Imagem da aplicação web" src=web/src/components/assets/image.png width="100%">
+  <img alt="Imagem da aplicação web" src=web/src/components/assets/image.png>
 </p>
 
 ## ✨ Tecnologias
@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🚀 Como Executar
 
 * 🌐 **Conectando-se à aplicação online**
-    * Para acessar ao projeto em execução no ambiente da Vercel, acesse um dos seguintes links:
+    * Para acessar ao projeto em execução no ambiente da <b>Vercel</b>, acesse um dos seguintes links:
 
         [Link 1](https://widget-web-steel.vercel.app/) 
 
@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * 🧑‍💻 **Conectando-se à aplicação localmente**
     * No [Github](https://github.com/jaquelinepires/Widget-web.git), faça um clone deste projeto em sua máquina com o seguinte comando:
         ```
-        git clone https://github.com/AndreNavarro/NLW08-Feedback-Widget.git
+        git clone https://github.com/jaquelinepires/Widget-web.git
         ```
     * Verá que há duas pastas, uma referente à aplicação web, e uma referente à api back-end.
     * Faça uma cópia dos arquivos .env.local (pasta web) e .env (pasta server) e renomeie ambos removendo o nome "-sample". É necessário que sejam preenchidos os dados dentro destes arquivos.
